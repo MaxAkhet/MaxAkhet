@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Any SASS Projetc**
+- 👯 I’m looking to collaborate on **Any SAAS Projetc**
 
 - 🤝 I’m looking for help with **Machine Learning Skills**
 
